@@ -8,14 +8,17 @@ ringan, tanpa build step), responsif di HP dan laptop, siap GitHub Pages
 
 - `index.html` — landing page: edisi unggulan, empat pesan utama, daftar edisi.
 - `ngaji/13-al-baqarah-125-134.html` — Edisi No. 13: Tadabbur Surah
-  Al-Baqarah ayat 125–134 (Penulis/Peserta: Paiyo Sadewo, Pendamping: Dik Yoyo).
-- `ngaji/12-al-baqarah-116-124.html` — Edisi No. 12: Dialog interaktif Paiyo
-  dan Dik Yoyo, Tadabbur Al-Baqarah ayat 116–124 (khusyuk, keikhlasan, ujian
+  Al-Baqarah ayat 125–134.
+- `ngaji/12-al-baqarah-116-124.html` — Edisi No. 12: Dialog interaktif, Tadabbur Al-Baqarah ayat 116–124 (khusyuk, keikhlasan, ujian
   dan amanah).
 - `ngaji/11-langkahku-meraih-fadilah-mu.html` — Edisi No. 11: Langkahku
   Meraih Fadilah-Mu, dzikir perjalanan pulang dari masjid (doa keluar masjid,
   labbaik, tasbih, tahmid, tahlil, takbir, Rabbanā ātinā). Edisi ini disajikan
   tanpa penyebutan nama pribadi.
+- `ngaji/09-al-baqarah-102-benteng-dari-sihir.html` — Edisi No. 9: Benteng
+  dari Sihir, tadabbur Al-Baqarah 102 (sebab turun, sihir masa kini, cara
+  mengenali perdukunan, langkah membentengi diri). Disajikan tanpa penyebutan
+  nama pribadi, seperti Edisi No. 12 dan 13 yang sudah dianonimkan pula.
 - `assets/css/style.css` — gaya bersama semua halaman.
 - `assets/js/main.js` — menu HP dan centang muhasabah (tersimpan lokal saja).
 
