@@ -19,6 +19,13 @@ ringan, tanpa build step), responsif di HP dan laptop, siap GitHub Pages
   dari Sihir, tadabbur Al-Baqarah 102 (sebab turun, sihir masa kini, cara
   mengenali perdukunan, langkah membentengi diri). Disajikan tanpa penyebutan
   nama pribadi, seperti Edisi No. 12 dan 13 yang sudah dianonimkan pula.
+- `ngaji/08-renungan-bada-subuh-tazkiyah.html` — Edisi No. 8: Renungan ba'da
+  Subuh, tazkiyah dan roso sejati kang manggon ning ati (Al-A'la, Asy-Syams,
+  benang merah falāh diawali penyucian). Tanpa penyebutan nama pribadi.
+- `ngaji/07-al-waqiah-dan-hujan-berkah.html` — Edisi No. 7: Dialog dini hari,
+  Al-Waqi'ah (tiga golongan, gemetar, khauf dan raja') dan hujan berkah
+  (6 manfaat, adab saat hujan, bunga yang disegarkan). Tanpa penyebutan nama
+  pribadi.
 - `assets/css/style.css` — gaya bersama semua halaman.
 - `assets/js/main.js` — menu HP dan centang muhasabah (tersimpan lokal saja).
 
