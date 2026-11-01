@@ -12,9 +12,11 @@
     });
   }
   // Muhasabah: centang tersimpan lokal di perangkat pembaca saja.
+  var container = document.querySelector('[data-muhasabah]');
+  var edition = container ? (container.getAttribute('data-muhasabah') || '13') : '13';
   var checks = document.querySelectorAll('[data-muhasabah] input[type="checkbox"]');
   checks.forEach(function (box, i) {
-    var key = 'ngaji-muhasabah-13-' + i;
+    var key = 'ngaji-muhasabah-' + edition + '-' + i;
     try { if (localStorage.getItem(key) === '1') box.checked = true; } catch (e) {}
     box.addEventListener('change', function () {
       try { localStorage.setItem(key, box.checked ? '1' : '0'); } catch (e) {}
