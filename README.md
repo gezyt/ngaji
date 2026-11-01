@@ -12,6 +12,10 @@ ringan, tanpa build step), responsif di HP dan laptop, siap GitHub Pages
 - `ngaji/12-al-baqarah-116-124.html` — Edisi No. 12: Dialog interaktif Paiyo
   dan Dik Yoyo, Tadabbur Al-Baqarah ayat 116–124 (khusyuk, keikhlasan, ujian
   dan amanah).
+- `ngaji/11-langkahku-meraih-fadilah-mu.html` — Edisi No. 11: Langkahku
+  Meraih Fadilah-Mu, dzikir perjalanan pulang dari masjid (doa keluar masjid,
+  labbaik, tasbih, tahmid, tahlil, takbir, Rabbanā ātinā). Edisi ini disajikan
+  tanpa penyebutan nama pribadi.
 - `assets/css/style.css` — gaya bersama semua halaman.
 - `assets/js/main.js` — menu HP dan centang muhasabah (tersimpan lokal saja).
 
